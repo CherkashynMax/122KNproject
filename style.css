@@ -1,12 +1,32 @@
 body{
-	background:white
+	background:white,
 }
 .nav-wrapper{
-	background:teal
+	background:teal,
 }
 #s1{
 	color:white
 }
 #ss1{
 	color:white
+}
+
+h4{
+	text-align: center;
+}
+
+div{
+	margin: 80px;
+	padding: 20px
+}
+
+footer{
+	background-color: purple;
+	color: white,
+}
+
+
+li{
+	list-style-type: circle;
+	font-size: medium;
 }
