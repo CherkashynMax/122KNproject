@@ -14,21 +14,26 @@ body{
 
 h4{
 	text-align: center;
+
 }
-span{
-	text-align: center;
-}
+
 h2{
 	text-align: center;
 }
 div{
 	margin: 80px;
-	padding: 20px
+	padding: 10px
 }
 
+#content {
+    top: 82px; /* Расстояние от верхнего края */
+    left: 170px; /* Расстояние от левого края */ 
+    bottom: 0; right: 0;
+   }
 footer{
 	background-color: #D3D3D3;
 	color: white,
+	text-align: left;
 }
 
 
