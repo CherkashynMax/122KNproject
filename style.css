@@ -4,6 +4,7 @@ body{
 .nav-wrapper{
 	background:teal,
 }
+
 #s1{
 	color:white
 }
@@ -14,14 +15,19 @@ body{
 h4{
 	text-align: center;
 }
-
+span{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
 div{
 	margin: 80px;
 	padding: 20px
 }
 
 footer{
-	background-color: purple;
+	background-color: #D3D3D3;
 	color: white,
 }
 
